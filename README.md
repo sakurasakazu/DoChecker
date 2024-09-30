@@ -24,6 +24,7 @@ DoCheckerに関するファイルは、本ページのDoChecker.vsixとして配
 ![スクリーンショット 2024-09-28 144814](https://github.com/user-attachments/assets/cbe46821-f5b3-4861-989c-5ad9c18ad62f)
 
 (3) DoChecker.vsixを選択
+
 ![スクリーンショット 2024-09-30 132019](https://github.com/user-attachments/assets/b3510a87-74f6-43bf-abd3-ac98642ff6d0)
 ---
 
