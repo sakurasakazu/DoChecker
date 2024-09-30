@@ -16,15 +16,15 @@ URL：https://learn.microsoft.com/ja-jp/power-pages/configure/vs-code-extension
 DoCheckerに関するファイルは、本ページのDoChecker.vsixとして配置しているため、これをVSCodeの拡張機能としてインストールしてください．
 具体的なインストール手順を以下に示します．
 ---
-(1) VSCodeの拡張機能画面を開く．
+(1) VSCodeの拡張機能画面を開く
 ![スクリーンショット 2024-09-28 144838](https://github.com/user-attachments/assets/9126c548-480b-4d8c-9f12-14f99ccbae32)
 
 
-(2) VSCodeの拡張機能画面の右上の「・・・」をクリックし，「VSIXからインストール」を選択．
+(2) VSCodeの拡張機能画面の右上の「・・・」をクリックし，「VSIXからインストール」を選択
 ![スクリーンショット 2024-09-28 144814](https://github.com/user-attachments/assets/cbe46821-f5b3-4861-989c-5ad9c18ad62f)
 
-(3) DoChecker.vsixを選択．
-＜図＞
+(3) DoChecker.vsixを選択
+![スクリーンショット 2024-09-30 132019](https://github.com/user-attachments/assets/b3510a87-74f6-43bf-abd3-ac98642ff6d0)
 ---
 
 これにより，DoCheckerを利用可能となる．
